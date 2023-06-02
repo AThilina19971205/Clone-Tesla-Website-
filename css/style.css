@@ -47,25 +47,25 @@ html{
     scroll-snap-align:center;
 }
 .image:nth-child(1){
-    background-image: url(img/1.jpeg);
+    background-image: url(../img/1.jpeg);
 }
 .image:nth-child(2){
-    background-image: url(img/2.jpeg);
+    background-image: url(../img/2.jpeg);
 }
 .image:nth-child(3){
-    background-image: url(img/3.jpeg);
+    background-image: url(../img/3.jpeg);
 }
 .image:nth-child(4){
-    background-image: url(img/4.jpeg);
+    background-image: url(../img/4.jpeg);
 }
 .image:nth-child(5){
-    background-image: url(img/5.jpeg);
+    background-image: url(../img/5.jpeg);
 }
 .image:nth-child(6){
-    background-image: url(img/6.webp);
+    background-image: url(../img/6.webp);
 }
 .image:nth-child(7){
-    background-image: url(img/7.jpeg);
+    background-image: url(../img/7.jpeg);
 }
 #nav-container{
     display: flex;
