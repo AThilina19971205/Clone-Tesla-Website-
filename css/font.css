@@ -1,0 +1,20 @@
+@font-face{
+    font-family:gotham-thin;
+    src: url(/font/gotham-thin_KR1vn/GothamThin/GothamThin.otf);
+}
+@font-face{
+    font-family: gotham-bold;
+    src: url(/font/gotham-bold_DxVET/GothamBold/GothamBold.otf);
+}
+@font-face{
+    font-family: gotham-light;
+    src: url(/font/gotham-light_H5SHi/GothamLight/GothamLight.otf);
+}
+@font-face{
+    font-family: gotham-book;
+    src: url(/font/gotham-book_nvB0F/GothamBook/GothamBook.otf);
+}
+@font-face{
+    font-family: gotham-medium;
+    src: url(/font/gotham-medium_awwzf/GothamMedium/GothamMedium.otf);
+}
